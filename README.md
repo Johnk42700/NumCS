@@ -1,2 +1,2 @@
 # NumCS
-Different Numerical Methods, implemented in pzthon mainly using the numpy library
+Different Numerical Methods, implemented in python mainly using the numpy library
